@@ -1,6 +1,6 @@
 'use client';
 import { useState } from 'react';
-import Key from './key';
+import Key from '../key';
 
 function Synth () {
     return (
